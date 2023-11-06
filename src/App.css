@@ -1,0 +1,17 @@
+*{
+  font-family: montserrat;
+}
+.square{
+  width: 100px;
+  height: 100px;
+}
+.squares-row{
+  display: flex;
+}
+.square{
+  font-size: 80px;
+}
+button{
+  padding: 10px 20px;
+  font-size: 18px;
+}
